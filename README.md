@@ -45,7 +45,7 @@ Save password to file? (y/n): y
 [✓] Password saved to generated_password.txt
 The file will be created in the same folder where the script is located.
 
-📌 Planned Updates:
+##📌 Planned Updates:
 
 🔐 1. Secure password storage
 Instead of saving to plain .txt, encrypt passwords using:
@@ -62,6 +62,6 @@ Variety of characters used
 
 Entropy estimation
 
-⚠️ Disclaimer
+##⚠️ Disclaimer
 This script is for educational and personal use only.
 Do not use this to manage or store real passwords without additional security measures (e.g., encryption, secure storage).
