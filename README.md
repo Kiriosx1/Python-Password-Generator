@@ -26,8 +26,24 @@ Generates strong, random passwords with a customizable length and includes upper
 
 1. Run the script:
 
+```bash
 python password_generator.py
+Follow the prompts:
 
+Enter password length (e.g., 16)
+
+Choose whether to include symbols (e.g., y for yes, n for no)
+
+Choose whether to save the password to a file (saved as generated_password.txt)
+
+##🧾 Example Output:
+
+Enter password length: 12
+Include symbols? (y/n): y
+Generated password: 9g@D#2bLx!f1
+Save password to file? (y/n): y
+[✓] Password saved to generated_password.txt
+The file will be created in the same folder where the script is located.
 
 📌 Planned Updates:
 
