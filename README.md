@@ -34,7 +34,7 @@ Enter password length (e.g., 16)
 Choose whether to include symbols (e.g., y for yes, n for no)
 
 Choose whether to save the password to a file (saved as generated_password.txt)
-
+---
 ##🧾 Example Output:
 
 Enter password length: 12
@@ -43,7 +43,7 @@ Generated password: 9g@D#2bLx!f1
 Save password to file? (y/n): y
 [✓] Password saved to generated_password.txt
 The file will be created in the same folder where the script is located.
-
+---
 ##📌 Planned Updates:
 
 🔐 1. Secure password storage
@@ -60,7 +60,8 @@ Length
 Variety of characters used
 
 Entropy estimation
-
+---
 ##⚠️ Disclaimer
 This script is for educational and personal use only.
 Do not use this to manage or store real passwords without additional security measures (e.g., encryption, secure storage).
+---
