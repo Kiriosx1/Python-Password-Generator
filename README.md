@@ -5,7 +5,7 @@ Generates strong, random passwords with a customizable length and includes upper
 
 ---
 
-## 🚀 Features
+# 🚀 Features
 
 - Customizable password length
 - Uses uppercase, lowercase, digits, and punctuation
@@ -36,7 +36,7 @@ Choose whether to include symbols (e.g., y for yes, n for no)
 Choose whether to save the password to a file (saved as generated_password.txt)
 
 ---
-##🧾 Example Output:
+## 🧾 Example Output:
 
 Enter password length: 12
 Include symbols? (y/n): y
@@ -46,7 +46,7 @@ Save password to file? (y/n): y
 The file will be created in the same folder where the script is located.
 
 ---
-##📌 Planned Updates:
+## 📌 Planned Updates:
 
 🔐 1. Secure password storage
 Instead of saving to plain .txt, encrypt passwords using:
@@ -64,7 +64,7 @@ Variety of characters used
 Entropy estimation
 
 ---
-##⚠️ Disclaimer
+# ⚠️ Disclaimer
 This script is for educational and personal use only.
 Do not use this to manage or store real passwords without additional security measures (e.g., encryption, secure storage).
 
