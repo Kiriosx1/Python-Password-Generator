@@ -54,6 +54,7 @@ Instead of saving to plain .txt, encrypt passwords using:
 cryptography or PyNaCl library
 
 Option to set a master password
+
 ✅ 2. Password strength estimator
 Give a rating (Weak / Medium / Strong) based on:
 
