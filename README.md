@@ -26,7 +26,6 @@ Generates strong, random passwords with a customizable length and includes upper
 
 1. Run the script:
 
-```bash
 python password_generator.py
 Follow the prompts:
 
